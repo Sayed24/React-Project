@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Navbar, NavbarBrand } from 'reactstrap';
+import Directory from './conmponents/DirectoryComponent';
 import './App.css';
 
 class App extends Component {
@@ -11,6 +12,7 @@ class App extends Component {
             <NavbarBrand href="/">Nucamp</NavbarBrand>
           </div>
         </Navbar>
+        <Directory />
       </div>
     );
   }
