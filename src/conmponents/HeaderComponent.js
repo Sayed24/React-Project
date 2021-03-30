@@ -26,8 +26,8 @@ class Header extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col">
-                                <h1>NuCamp</h1>
-                                <h2>a better way to camp</h2>
+                                <h1>Portfolio</h1>
+                                <h2>React Portfolio Project</h2>
                             </div>
                         </div>
                     </div>

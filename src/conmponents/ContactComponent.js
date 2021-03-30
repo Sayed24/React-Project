@@ -19,16 +19,16 @@ function Contact(props) {
 
             <div className="row row-content align-items-center">
                 <div className="col-sm-4">
-                    <h5>Our Address</h5>
+                    <h5>My Address</h5>
                     <address>
-                        1 Nucamp Way<br />
-                        Seattle, WA 98001<br />
+                        2545 Fulton Ave<br />
+                        Sacramento, CA 95821<br />
                         U.S.A.
                     </address>
                 </div>
                 <div className="col">
-                    <a role="button" className="btn btn-link" href="tel:+12065551234"><i className="fa fa-phone" /> 1-206-555-1234</a><br />
-                    <a role="button" className="btn btn-link" href="mailto:fakeemail@fakeemail.co"><i className="fa fa-envelope-o" /> campsites@nucamp.co</a>
+                    <a role="button" className="btn btn-link" href="tel:+19163465380"><i className="fa fa-phone" /> 1-916-346-5380</a><br />
+                    <a role="button" className="btn btn-link" href="mailto:sadatsayed92@gmail.com"><i className="fa fa-envelope-o" /> SadatSayed92@gmail.com</a>
                 </div>
             </div>
         </div>
