@@ -71,7 +71,7 @@ function About(props) {
                             <blockquote className="blockquote">
                                 <p className="mb-0">I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.</p>
                                 <footer className="blockquote-footer">Muriel Strode,{' '}
-                                    <cite title="Source Title">"Wind-Wafted Wild Flowers" --
+                                    <cite title="Source Title">"Wind-Wafted Wild Flowers" -
                                     The Open Court, 1903</cite>
                                 </footer>
                             </blockquote>
